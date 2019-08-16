@@ -8,10 +8,6 @@ hola
 la hola hola
 hoy es el mas guapo de los mas guapos y su vida es una obra maestra
  neider orlando
-<<<<<<< HEAD
+
  Prueba
 
- Javier estuvo aqui
-=======
- cualquier cosa|
->>>>>>> 84c959d33bd83a1d24674d7fe11adec81c0f5a17
